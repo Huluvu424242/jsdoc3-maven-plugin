@@ -217,9 +217,9 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-plugin-plugin</artifactId>
-                    <version>3.1</version>
+                    <version>3.6.0</version>
                     <configuration>
-                        <goalPrefix>jsdoc3</goalPrefix>
+                        <goalPrefix>jsdoc3-rhino</goalPrefix>
                         <skipErrorNoDescriptorsFound>true</skipErrorNoDescriptorsFound>
                     </configuration>
                     <executions>

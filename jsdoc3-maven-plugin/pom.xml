@@ -129,7 +129,7 @@
                         <configuration>
                             <serverId>jsdoc3-github-master</serverId>
                             <url>https://github.com</url>
-                            <fromFile>jsdoc/jsdoc/archive/releases/${jsdoc-release-version}.zip</fromFile>
+                            <fromFile>jsdoc/jsdoc/archive/${jsdoc-release-version}.zip</fromFile>
                             <toDir>${project.build.directory}/jsdoc3</toDir>
                         </configuration>
                     </execution>
