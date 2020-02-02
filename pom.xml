@@ -38,7 +38,7 @@
 
     <properties>
         <!--maven, plugin, and lang versions-->
-        <java-version>1.6</java-version>
+        <java-version>1.7</java-version>
         <maven-compiler-plugin-version>2.3.2</maven-compiler-plugin-version>
         <maven-site-plugin-version>3.0</maven-site-plugin-version>
         <wagon-maven-plugin-version>2.0.0</wagon-maven-plugin-version>

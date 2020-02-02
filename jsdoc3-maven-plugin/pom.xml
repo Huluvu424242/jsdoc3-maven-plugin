@@ -156,7 +156,7 @@
                                              <!--includes="**/*.jar" />-->
                                 <!--</delete>-->
 
-                                <zip destfile="${project.build.directory}/classes/com/github/jsdoc3/jsdoc.zip" basedir="${project.build.directory}/jsdoc3/jsdoc-releases-${jsdoc-release-major-version}" />
+                                <zip destfile="${project.build.directory}/classes/com/github/jsdoc3/jsdoc.zip" basedir="${project.build.directory}/jsdoc3/jsdoc-jsdoc-4.0.0-dev.10" />
                             </target>
                         </configuration>
                         <goals>
